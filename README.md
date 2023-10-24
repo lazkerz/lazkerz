@@ -1,10 +1,10 @@
 # 💫 About Me:
 # 👋 Hi! Welcome to my GitHub profile! Thanks for stopping by. I hope you find something interesting here.
-I'm a passionate Front-End Web Dev and Android Dev with a love for technology and a knack for solving complex problems. Welcome to my GitHub profile! Here, you'll find a collection of projects and contributions that showcase my journey in the world of code.
-If you'd like to get in touch, collaborate on a project, or discuss anything related to technology, feel free to reach out through my social links :
-💬 LinkedIn: linkedin.com/in/nurullazira
-📷 Instagram : instagram.com/thinkaboutlazira
-Thanks for visiting my profile, and happy coding! 🚀
+<br><br>I'm a passionate Front-End Web Dev and Android Dev with a love for technology and a knack for solving complex problems. Welcome to my GitHub profile! Here, you'll find a collection of projects and contributions that showcase my journey in the world of code.
+<br><br>If you'd like to get in touch, collaborate on a project, or discuss anything related to technology, feel free to reach out through my social links :
+<br><br>💬 LinkedIn: linkedin.com/in/nurullazira
+<br><br>📷 Instagram : instagram.com/thinkaboutlazira
+<br><br>Thanks for visiting my profile, and happy coding! 🚀
 
 
 ## 🌐 Socials:
