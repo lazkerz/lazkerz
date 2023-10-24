@@ -3,7 +3,7 @@ I'm a passionate Front-End Web Dev and Android Dev with a love for technology an
 <br><br>If you'd like to get in touch, collaborate on a project, or discuss anything related to technology, feel free to reach out through my social links :
 <br><br>💬 LinkedIn: linkedin.com/in/nurullazira
 <br>📷 Instagram : instagram.com/thinkaboutlazira
-<br>Thanks for visiting my profile, and happy coding! 🚀
+<br><br>Thanks for visiting my profile, and happy coding! 🚀
 
 
 ## 🌐 Socials:
