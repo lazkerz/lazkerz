@@ -9,10 +9,6 @@ I'm a passionate Front-End Web Dev and Android Dev with a love for technology an
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thinkaboutlazira) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nurullazira) 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lazkerz&theme=algolia&show_icons=true&locale=en&layout=compact" alt="lazkerz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lazkerz&theme=algolia" alt="lazkerz" /></p>
-
 ## 🐍 GitHub Contributions
 
 <img align="center" src="https://github.com/raflizocky/raflizocky/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake">
