@@ -11,7 +11,7 @@ I'm a passionate Front-End Web Dev and Android Dev with a love for technology an
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lazkerz&theme=algolia&show_icons=true&locale=en&layout=compact" alt="lazkerz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lazkerz&theme=algolia&show_icons=true&locale=en" alt="lazkerz" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lazkerz&theme=algolia" alt="lazkerz" /></p>
 
 ## 🐍 GitHub Contributions
 
